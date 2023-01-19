@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start" : "node index.js"
-    },
+    "start": "node index.js"
+  },
   "author": "Nipun",
   "license": "ISC",
   "description": "",
@@ -17,6 +17,7 @@
     "mongoose": "^6.8.1",
     "multer": "^1.4.5-lts.1",
     "socket.io": "^4.5.4",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "vercel": "^28.12.8"
   }
 }
