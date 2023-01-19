@@ -9,7 +9,7 @@ const router = require('express').Router();
 const fs = require('fs');
 const socket = require("socket.io");
 var bcrypt = require('bcrypt');
-const {MOGOURI} = require('./config/keys');
+const {MOGOURI} = require('./config/key');
 // const userRouter = require('./routes/users');
 // app.use('/users', userRouter);
 // import fs from "fs";
